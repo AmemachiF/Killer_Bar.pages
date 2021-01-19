@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/brother", {data:[{}],fetch:[],mutations:void 0});
