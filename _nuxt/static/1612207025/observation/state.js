@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002FKiller_Bar.pages\u002F_nuxt\u002Fstatic\u002F1612207025",layout:"default",error:null,serverRendered:a,routePath:"\u002Fobservation",config:{},colorMode:{preference:b,value:b,unknown:a,forced:false}}}(true,"system"));
