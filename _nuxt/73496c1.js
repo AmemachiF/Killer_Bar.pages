@@ -1,1 +1,2 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[8],{926:function(t,e,n){"use strict";n.r(e);var r=n(2).default.extend({}),c=n(53),component=Object(c.a)(r,(function(){var t=this.$createElement,e=this._self._c||t;return e("b-container",{attrs:{fluid:""}},[e("b-card",{attrs:{header:"藏宝阁"}},[e("b-card-text",[this._v("\n      好康的。\n    ")])],1)],1)}),[],!1,null,null,null);e.default=component.exports}}]);
+//# sourceMappingURL=73496c1.js.map
